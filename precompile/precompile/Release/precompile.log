@@ -1,0 +1,6 @@
+﻿  precompile.c
+  Generating code
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  precompile.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\precompile\Release\precompile.exe
+  precompile.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\precompile\Release\precompile.pdb (Full PDB)

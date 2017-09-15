@@ -1,0 +1,4 @@
+﻿  EnglishFunctions test v2.c
+c:\users\joseph\documents\visual studio 2015\projects\midterm\englishfunctions test v2.c(122): warning C4013: 'strlen' undefined; assuming extern returning int
+  Midterm.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\Midterm\Debug\Midterm.exe
+  Midterm.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\Midterm\Debug\Midterm.pdb (Partial PDB)

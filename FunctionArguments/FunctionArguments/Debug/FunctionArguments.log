@@ -1,0 +1,7 @@
+﻿  surfin_bird.c
+c:\users\joseph\documents\visual studio 2015\projects\functionarguments\functionarguments\surfin_bird.c(296): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\joseph\documents\visual studio 2015\projects\functionarguments\functionarguments\surfin_bird.c(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\joseph\documents\visual studio 2015\projects\functionarguments\functionarguments\surfin_bird.c(418): warning C4018: '<': signed/unsigned mismatch
+c:\users\joseph\documents\visual studio 2015\projects\functionarguments\functionarguments\surfin_bird.c(445): warning C4715: 'find_the_word': not all control paths return a value
+  FunctionArguments.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\FunctionArguments\Debug\FunctionArguments.exe
+  FunctionArguments.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\FunctionArguments\Debug\FunctionArguments.pdb (Partial PDB)

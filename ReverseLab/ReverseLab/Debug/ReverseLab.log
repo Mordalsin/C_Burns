@@ -1,0 +1,5 @@
+﻿  MyStringHeader.c
+c:\users\joseph\documents\visual studio 2015\projects\reverselab\reverselab\mystringheader.c(85): warning C4013: 'toupper' undefined; assuming extern returning int
+c:\users\joseph\documents\visual studio 2015\projects\reverselab\reverselab\mystringheader.c(97): warning C4013: 'printf' undefined; assuming extern returning int
+  ReverseLab.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\ReverseLab\Debug\ReverseLab.exe
+  ReverseLab.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\ReverseLab\Debug\ReverseLab.pdb (Partial PDB)

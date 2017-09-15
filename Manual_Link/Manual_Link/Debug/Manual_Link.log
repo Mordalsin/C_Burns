@@ -1,0 +1,2 @@
+﻿Hello_World.obj : error LNK2005: _main already defined in instructor_code.obj
+c:\users\joseph\documents\visual studio 2015\Projects\Manual_Link\Debug\Manual_Link.exe : fatal error LNK1169: one or more multiply defined symbols found

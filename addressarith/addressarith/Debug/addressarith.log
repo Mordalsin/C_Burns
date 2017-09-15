@@ -1,0 +1,4 @@
+﻿  addr_arithmetic.c
+c:\users\joseph\documents\visual studio 2015\projects\addressarith\addressarith\addr_arithmetic.c(333): warning C4018: '<': signed/unsigned mismatch
+  addressarith.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\addressarith\Debug\addressarith.exe
+  addressarith.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\addressarith\Debug\addressarith.pdb (Partial PDB)

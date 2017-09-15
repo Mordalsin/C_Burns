@@ -1,0 +1,9 @@
+﻿  texas.c
+c:\users\joseph\documents\visual studio 2015\projects\functionpointers\functionpointers\texas.c(152): warning C4013: 'srand' undefined; assuming extern returning int
+c:\users\joseph\documents\visual studio 2015\projects\functionpointers\functionpointers\texas.c(152): warning C4013: 'time' undefined; assuming extern returning int
+c:\users\joseph\documents\visual studio 2015\projects\functionpointers\functionpointers\texas.c(160): warning C4013: 'rand' undefined; assuming extern returning int
+c:\users\joseph\documents\visual studio 2015\projects\functionpointers\functionpointers\texas.c(279): warning C4047: 'function': 'int (__cdecl *)(int,int)' differs in levels of indirection from 'int *'
+c:\users\joseph\documents\visual studio 2015\projects\functionpointers\functionpointers\texas.c(279): warning C4024: 'bubble_sort': different types for formal and actual parameter 3
+c:\users\joseph\documents\visual studio 2015\projects\functionpointers\functionpointers\texas.c(231): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int (__cdecl *)(int,int)'
+  functionpointers.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\functionpointers\Debug\functionpointers.exe
+  functionpointers.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\functionpointers\Debug\functionpointers.pdb (Partial PDB)

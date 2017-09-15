@@ -1,0 +1,8 @@
+﻿  tic_tac_toe.c
+c:\users\joseph\documents\visual studio 2015\projects\tictactoe\tictactoe\tic_tac_toe.c(112): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\joseph\documents\visual studio 2015\projects\tictactoe\tictactoe\tic_tac_toe.c(165): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\joseph\documents\visual studio 2015\projects\tictactoe\tictactoe\tic_tac_toe.c(277): warning C4028: formal parameter 1 different from declaration
+c:\users\joseph\documents\visual studio 2015\projects\tictactoe\tictactoe\tic_tac_toe.c(281): warning C4477: 'scanf_s' : format string '%i' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+  c:\users\joseph\documents\visual studio 2015\projects\tictactoe\tictactoe\tic_tac_toe.c(281): note: consider using '%hhi' in the format string
+  tictactoe.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\tictactoe\Debug\tictactoe.exe
+  tictactoe.vcxproj -> c:\users\joseph\documents\visual studio 2015\Projects\tictactoe\Debug\tictactoe.pdb (Partial PDB)
